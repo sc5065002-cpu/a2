@@ -1,0 +1,207 @@
+{
+  "domain": "horologiumset",
+  "niche": "Haute Horology & Horologium Chronometers",
+  "design_concept": "Urban High-Contrast & Modernist Monochrome",
+  "archetype_id": "urban_high_contrast",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "horologiumset_asset_1.jpg",
+      "size_kb": 176.92,
+      "md5": "d2bd88b3bfa6934e60681d0dd430a695",
+      "description": "Minute Repeater Ebauche back side",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "horologiumset_asset_3.jpg",
+      "size_kb": 54.83,
+      "md5": "0b6f3ffa4142dceb91a9a1cd108b47f2",
+      "description": "Repeater Gong",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "horologiumset_asset_4.jpg",
+      "size_kb": 50.51,
+      "md5": "d502edc8f236920f1e8f5625f8b248e7",
+      "description": "Repeater Gong Detail",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "horologiumset_asset_5.jpg",
+      "size_kb": 190.01,
+      "md5": "cb4c62d498f7052ac70f031ae20e6cb6",
+      "description": "Fondation de la Haute Horlogerie K",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "horologiumset_asset_6.jpg",
+      "size_kb": 196.46,
+      "md5": "36e491fde42589a6004baa754714b60a",
+      "description": "Fondation de la Haute Horlogerie K",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "horologiumset_asset_9.jpg",
+      "size_kb": 155.05,
+      "md5": "f2ef9006d8a26bfd35b1977c719b7d4d",
+      "description": "Horloge de Marie Antoinette 2",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "horologiumset_asset_10.jpg",
+      "size_kb": 157.04,
+      "md5": "63c9885a4c1d355cd447c1b53e9d18eb",
+      "description": "Horloge de Marie Antoinette 3",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "horologiumset_asset_11.jpg",
+      "size_kb": 110.01,
+      "md5": "875464a213a95affcbdf4a4ab8b38665",
+      "description": "MarieAntoinetteWatch",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "horologiumset_asset_12.jpg",
+      "size_kb": 156.81,
+      "md5": "f538837caa4d84f2516678946f39f771",
+      "description": "Speake Marin Renaissance Minute Rep",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "horologiumset_asset_13.jpg",
+      "size_kb": 51.9,
+      "md5": "b9869a74798a915da8808ffd68d64245",
+      "description": "Tourbillon Minute Repeater Girard P",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "horologiumset_asset_14.jpg",
+      "size_kb": 100.13,
+      "md5": "4deb0436c90d506967c847448de3766e",
+      "description": "John Leroux Repeater Watch with t",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "horologiumset_asset_16.jpg",
+      "size_kb": 107.36,
+      "md5": "5c4b9caa7f34d69544db77f22f127ce3",
+      "description": "Pulsar Dual Time World Chronograph",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "horologiumset_asset_18.jpg",
+      "size_kb": 176.19,
+      "md5": "d61f0a349adca7abf4a60c3c4ab5a1b4",
+      "description": "2012 366 277 I Watch the World in a",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "horologiumset_asset_20.jpg",
+      "size_kb": 180.34,
+      "md5": "62a16e73652ece2b676ef33eb5724ab5",
+      "description": "Bucherer Archimedes World Time Chro",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "horologiumset_asset_21.jpg",
+      "size_kb": 90.69,
+      "md5": "8bf59f22a04f42cdf3eed4d03c196caa",
+      "description": "CONDUCTOR CHECKS HIS WATCH TO FIND",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "horologiumset_asset_22.jpg",
+      "size_kb": 130.9,
+      "md5": "a7b4977892bce2cf99ee459c83e9f142",
+      "description": "Escapement Time Pilot Flieger Chron",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "horologiumset_asset_23.jpg",
+      "size_kb": 174.11,
+      "md5": "11df553633e853ac06c63a900530b1e8",
+      "description": "Escapement Time Pilot Flieger Chron",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "horologiumset_asset_24.jpg",
+      "size_kb": 209.56,
+      "md5": "da0c38473c2f17bf64cda71c915049d0",
+      "description": "German Spherical Table Watch Mel",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "horologiumset_asset_25.jpg",
+      "size_kb": 165.3,
+      "md5": "df9ff6e6f5478c59bafea91060cc2bbc",
+      "description": "German Spherical Table Watch Mel",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "horologiumset_asset_30.jpg",
+      "size_kb": 74.91,
+      "md5": "3256bd96fc403b15368b6143e31840c3",
+      "description": "Unique Watch",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://horologiumset.com/sitemap.xml",
+    "robots": "https://horologiumset.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
